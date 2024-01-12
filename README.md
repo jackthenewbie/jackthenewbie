@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.decoyer.win/api?username=jackthenewbie)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.decoyer.win/api?username=jackthenewbie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jackthenewbie/jackthenewbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
